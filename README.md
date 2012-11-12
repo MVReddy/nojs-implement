@@ -1,5 +1,5 @@
-noJS
-====
+noJS-Implement
+==============
 
 Declarative JavaScript.
 
